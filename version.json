@@ -1,6 +1,6 @@
 {
-  "version": "0.2",
-  "version_code": 2,
+  "version": "0.3",
+  "version_code": 3,
   "whats_new": "- Çoklu sekme sistemi\n- Geçmiş sayfası\n- Ayarlar sayfası\n- Otomatik güncelleme",
   "apk_url": "https://github.com/withermen30-jpg/maxnetwork-updates/releases/download/v0.2/maxnetworkv02.apk",
   "force_update": false
