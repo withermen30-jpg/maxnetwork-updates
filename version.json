@@ -1,6 +1,6 @@
 {
-  "version": "0.3",
-  "version_code": 3,
+  "version": "0.2",
+  "version_code": 2,
   "whats_new": "- Çoklu sekme sistemi\n- Geçmiş sayfası\n- Ayarlar sayfası\n- Otomatik güncelleme",
   "apk_url": "https://maxnetwork.com.tr/maxnetworkv01.apk",
   "force_update": false
