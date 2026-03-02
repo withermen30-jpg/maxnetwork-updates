@@ -1,7 +1,7 @@
 {
-  "version": "0.3",
-  "version_code": 3,
-  "whats_new": "- güvenlik yamaları /n - donate sistemi",
-  "apk_url": "https://maxnetwork.com.tr/maxnetworkv03.apk",
+  "version": "0.2.4",
+  "version_code": 4,
+  "whats_new": "- güvenlik katmanı ve UI yenileme",
+  "apk_url": "https://toksiktayfa.com.tr/maxbrowser.apk",
   "force_update": false
 }
