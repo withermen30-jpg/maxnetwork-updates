@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4",
-  "version_code": 4,
-  "whats_new": "- güvenlik katmanı ve UI yenileme",
-  "apk_url": "https://toksiktayfa.com.tr/maxbrowser.apk",
+  "version": "0.4",
+  "version_code": 5,
+  "whats_new": "güvenlik güncellemeleri ve bildirim sistemi",
+  "apk_url": "https://raw.githubusercontent.com/withermen30-jpg/maxnetwork-updates/main/v04-maxnetwork.apk",
   "force_update": false
 }
