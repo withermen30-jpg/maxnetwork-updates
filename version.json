@@ -1,7 +1,7 @@
 {
   "version": "0.4",
-  "version_code": 99,
-  "whats_new": "bildirim testidir, güncellemeyin!",
+  "version_code": 5,
+  "whats_new": "güvenlik iyileştirmeleri",
   "apk_url": "https://raw.githubusercontent.com/withermen30-jpg/maxnetwork-updates/main/v04-maxnetwork.apk",
   "force_update": false
 }
